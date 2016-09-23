@@ -1,3 +1,4 @@
 # hello-world
-My first repository! 
-Test edit number 1!
+This is a repository.
+Test edit number 1! \n
+Something exciting... woo!
