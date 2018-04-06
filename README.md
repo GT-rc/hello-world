@@ -1,4 +1,5 @@
-# hello-world
-This is a repository.
-Test edit number 1! 
+# Hello World
+
+## This is a repository.
+
 Something exciting... woo!
